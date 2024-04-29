@@ -1,0 +1,28 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #99BC85; */
+    background: url(/SingUpPage/wallpaperbetter.jpg);
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 450px;
+    background-color: #BFD8AF;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px 1px black ;
+
+}
